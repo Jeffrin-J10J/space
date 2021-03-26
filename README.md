@@ -1,2 +1,2 @@
 # space
-Space block on virtual land
+Space block
